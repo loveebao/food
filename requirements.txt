@@ -1,0 +1,13 @@
+Pillow
+torch
+torchvision
+Flask==2.2.2
+gunicorn
+Werkzeug==2.2.2
+ultralytics
+requests
+pandas
+fuzzywuzzy
+ollama
+flask_cors
+python-Levenshtein
